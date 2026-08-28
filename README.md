@@ -24,6 +24,8 @@ Before getting started, please consider the following recommendations:
 * Each member must create a Jira account.
 * One of the team members must create a workspace in Jira named: DOSW_Lab4_FirstInitialOfEachMember.
 * Create a team in Jira and add the professor (see videos [6](https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/2026-1-DOSW-3/IQBIkc3ZzhHRSb6gUyga53XxAfxxph6qbvdAtmp4oSSa3bw?e=0HcjPp) and [7](https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/2026-1-DOSW-3/IQBanuI5VDcPQY0AHYFh1ewdAZT9rj9kbKpM3n-G9f1xH5w?e=ah9zW1)): laura.herrera@escuelaing.edu.co.
+* <img width="1170" height="569" alt="image" src="https://github.com/user-attachments/assets/a8f186ef-76d2-49c8-963d-546d8695f90f" />
+
 * Create a repository on GitHub with the name: DOSW_Lab4_FirstInitialOfEachMember. Important: Create the repository with the options to include the README and .gitignore files.
 * Create the `develop` branch from `main`.
 * Don't forget to add the professor to the repository and send the repository URL via Teams.
