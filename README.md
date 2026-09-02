@@ -198,10 +198,10 @@ Based on the case study, the activity breakdown, and the priority of each user s
 
 | User Story | Description | Story Points |
 |---|---|---:|
-| US01 | Select a team for registration | **8** |
-| US02 | Register team in active tournament | **13** |
-| US03 | Pay registration through PSE | **13** |
-| US04 | Verify registration payment | **13** |
+| HU01 | Select a team for registration | **8** |
+| HU02 | Register team in active tournament | **13** |
+| HU03 | Pay registration through PSE | **13** |
+| HU04 | Verify registration payment | **13** |
 
 ### Planning Poker Evidence
 
