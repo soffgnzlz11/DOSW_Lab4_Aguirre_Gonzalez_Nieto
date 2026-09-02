@@ -21,6 +21,29 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 ### 3. Tareas:
 
+![alt text](<../images/Task - Diseñar interfaz de creacion o seleccion de equipo.png>)
+
+![alt text](<../images/Task - Implementar creacion de equipo (backend).png>)
+
+![alt text](<../images/Task - Implementar listados - seleccion de equipos.png>)
+
+![alt text](<../images/Task - Implementar procesamiento y registro del pago.png>)
+
+![alt text](<../images/Task - Implementar registro del equipo al torneo.png>)
+
+![alt text](<../images/Task - Implementar validacion y aprobacion de inscripcion.png>)
+
+![alt text](<../images/Task - Implementar vista de revision de pagos.png>)
+
+![alt text](<../images/Task - Integrar pasarela de pago PSE.png>)
+
+![alt text](<../images/Task - Mostrar informacion del torneo y valor de inscripcion.png>)
+
+![alt text](<../images/Task - Notificar confirmacion de pago al capitan.png>)
+
+![alt text](<../images/Task - Registrar estado final de inscripcion.png>)
+
+![alt text](<../images/Task - Validar existencia de torneo activo.png>)
 
 ### 4. Cronograma:
 
