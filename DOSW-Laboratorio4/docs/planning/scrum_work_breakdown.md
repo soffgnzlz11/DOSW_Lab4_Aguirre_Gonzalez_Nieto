@@ -76,7 +76,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | TR-04 |
-| **Título** | validar existencia de torneo activo |
+| **Título** | Validar existencia de torneo activo |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | Implementatar la verificacion de que exista un torneo en estado Active antes de permitir la inscripcion. |
 | **Tareas requisito** | Ninguna |
@@ -93,7 +93,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 |------|-------------|
 | **ID** | TR-06 |
 | **Título** | Implementar registo del equipo al torneo |
-| **ID de la Historia de Uso asociada** | HU-0 |
+| **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | Desarrollar la logica que asocia el equipo seleccionado con el torneo activo, validando que cumpla las condiciones de inscripcion  |
 | **Tareas requisito** | TR-04, TR-02 |
 
