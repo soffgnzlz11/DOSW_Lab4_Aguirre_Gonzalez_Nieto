@@ -129,6 +129,15 @@ DOSW-Lab4/
 
 ## 5. PART 2 – Work Breakdown for TechCup (30%)
 
+
+### Definicion de roles scrum
+
+Para el desarrollo de este laboratorio los roles seran lo siguientes:
+
+- Product Owner: Sara Gonzalez
+- Scrum Master: Camilo Aguirre
+- Developer: Juan Nieto
+
 Based on the case study and the requirements defined in parts 3 and 4 of Lab 4, complete the following:
 
 1. Create the `feature/proj-work-breakdown` branch based on the `develop` branch.
