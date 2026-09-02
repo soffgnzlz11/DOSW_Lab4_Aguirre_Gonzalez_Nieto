@@ -21,7 +21,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Título** | Crear o sleccionar equipo |
 | **Descripción** | COMO Capitan, QUIERO crear un nuevo equipo o seleccionar uno ya registrado, PARA PODER inscribirlo en el torneo activo en el periodo academico actual. |
 | **Prioridad** | *[Baja]* *[Media]* *[Alta]* |
-| **Estimación** | *8* |
+| **Estimación** | ** |
 
 | Campo | Descripción |
 |------|-------------|
@@ -29,7 +29,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Título** | Registrar equipo en el torneo activo |
 | **Descripción** | Como capitán, quiero registrar mi equipo en el torneo que se encuentra activo, para asegurar su participación en la competencia y asegurar nuestro cupo frente a los organizadores y logistica del torneo. |
 | **Prioridad** | *[Baja]* *[Media]* *[Alta]* |
-| **Estimación** | *13* |
+| **Estimación** | ** |
 
 | Campo | Descripción |
 |------|-------------|
