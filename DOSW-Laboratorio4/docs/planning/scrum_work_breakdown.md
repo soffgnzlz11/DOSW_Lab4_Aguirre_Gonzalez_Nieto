@@ -38,6 +38,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | COMO capitan QUIERO pagar el valor de la inscripcion de mi equipo a traves de PSE, PARA PODER completar el proceso de registro en el torneo atraves de la plataforma bancaria de mi preferencia. |
 | **Prioridad** | *[Baja]* *[Media]* *[Alta]* |
 | **Estimación** | *(Penditente)* |
+**Video de Planning Poker:** https://youtu.be/nrVU0FgRNZI
 
 | Campo | Descripción |
 |------|-------------|
