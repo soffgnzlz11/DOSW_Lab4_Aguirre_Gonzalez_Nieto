@@ -192,6 +192,37 @@ Based on the case study, the activity breakdown, and the priority of each user s
 8. The creator of the pull request must update the `scrum_work_breakdown.md` file with the estimations defined in Jira for each user story.
 9. The team member who left the comment will review it again and give their decision to approve it or not. Important: The pull request cannot be approved by the same person who created it.
 
+## Part 4 — Story Point Estimation
+
+### User Stories and Story Points
+
+| User Story | Description | Story Points |
+|---|---|---:|
+| HU01 | Select a team for registration | **8** |
+| HU02 | Register team in active tournament | **13** |
+| HU03 | Pay registration through PSE | **13** |
+| HU04 | Verify registration payment | **13** |
+
+### Planning Poker Evidence
+
+The team used Planning Poker to estimate the four user stories. All three team members participated in the voting and discussion.
+
+**Video evidence:** https://youtu.be/nrVU0FgRNZI
+
+### Questions
+
+**1. What was the biggest difficulty when estimating the user stories?**
+
+The biggest challenge was getting everyone to agree, because for every story, we never agreed on the scores in the first round. We had to take everyone's point of view and different perspectives into account and, based on that, reach a mutual agreement among all of us.
+
+**2. Was reaching consensus easy?**
+
+No, it was quite difficult to reach a consensus in the first and even the second round, since we all had different perspectives on how each story should unfold.
+
+**3. How did you resolve cases where estimates were far apart?**
+
+When the estimates were far apart, each team member explained the reasons behind their estimate. We discussed the complexity, possible difficulties, and uncertainty of the user story. After considering everyone's arguments, we voted again until we reached a common agreement.
+
 ---
 
 ## 8. PART 5 – Planning (15%)
