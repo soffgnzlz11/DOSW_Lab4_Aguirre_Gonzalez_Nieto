@@ -41,14 +41,6 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | HU-03 |
-| **Título** | Pagar inscripcion mediante PSE |
-| **Descripción** | COMO capitan QUIERO pagar el valor de la inscripcion de mi equipo a traves de PSE, PARA PODER completar el proceso de registro en el torneo atraves de la plataforma bancaria de mi preferencia. |
-| **Prioridad** | *[Baja]* *[Media]* *[Alta]* |
-| **Estimación** | *(Penditente)* |
-
-| Campo | Descripción |
-|------|-------------|
 | **ID** | HU-04 |
 | **Título** | Validar pago y aprobar inscripcion |
 | **Descripción** | COMO organizador QUIERO revisar y validar el pago realizado por un equipo, PARA PODER aprobar su inscripcion en el torneo y tenerlo en cuenta en la planeacion y logistica del torneo. |
