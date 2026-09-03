@@ -21,7 +21,8 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Título** | Crear o sleccionar equipo |
 | **Descripción** | COMO Capitan, QUIERO crear un nuevo equipo o seleccionar uno ya registrado, PARA PODER inscribirlo en el torneo activo en el periodo academico actual. |
 | **Prioridad** |*[Media]* Es el punto de entrada del flujo completo sin un equipo creado o seleccionado, no es posible ejecutar ninguna historia bloquea todo lo demás. |
-| **Estimación** | *(Penditente)* |
+| **Estimación** | *8* |
+
 
 | Campo | Descripción |
 |------|-------------|
@@ -29,7 +30,8 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Título** | Registrar equipo en el torneo activo |
 | **Descripción** | Como capitán, quiero registrar mi equipo en el torneo que se encuentra activo, para asegurar su participación en la competencia y asegurar nuestro cupo frente a los organizadores y logistica del torneo. |
 | **Prioridad** |*[Media]* Es el objetivo central  del sistema sin un equipo registrado no se genera el proceso del pago. |
-| **Estimación** | *(Penditente)* |
+| **Estimación** | *13* |
+
 
 | Campo | Descripción |
 |------|-------------|
@@ -37,7 +39,8 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Título** | Pagar inscripcion mediante PSE |
 | **Descripción** | COMO capitan QUIERO pagar el valor de la inscripcion de mi equipo a traves de PSE, PARA PODER completar el proceso de registro en el torneo atraves de la plataforma bancaria de mi preferencia. |
 | **Prioridad** |*[Media]* Sin el pago, el proceso de inscripción queda incompleto y el equipo no puede participar formalmente.|
-| **Estimación** | *(Penditente)* |
+| **Estimación** | *13* |
+**Video de Planning Poker:** https://youtu.be/nrVU0FgRNZI
 
 | Campo | Descripción |
 |------|-------------|
@@ -45,7 +48,8 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Título** | Validar pago y aprobar inscripcion |
 | **Descripción** | COMO organizador QUIERO revisar y validar el pago realizado por un equipo, PARA PODER aprobar su inscripcion en el torneo y tenerlo en cuenta en la planeacion y logistica del torneo. |
 | **Prioridad** |*[Media]* Depende de que ya existan pagos registrados, es importante pero puede abordarse una vez el flujo de registro/pago esté funcionando.|
-| **Estimación** | *(Penditente)* |
+| **Estimación** | *13* |
+
 
 ### 3. Tareas:
 
