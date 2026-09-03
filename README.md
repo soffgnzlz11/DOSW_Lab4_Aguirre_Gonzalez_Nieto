@@ -192,38 +192,31 @@ Based on the case study, the activity breakdown, and the priority of each user s
 8. The creator of the pull request must update the `scrum_work_breakdown.md` file with the estimations defined in Jira for each user story.
 9. The team member who left the comment will review it again and give their decision to approve it or not. Important: The pull request cannot be approved by the same person who created it.
 
-## Part 4 — Story Point Estimation
+Parte 4 — Estimación en Puntos de Historia
+Historias de Usuario y Puntos de Historia
+Historia de Usuario	Descripción	Puntos de Historia
+HU01	Seleccionar un equipo para la inscripción	8
+HU02	Registrar un equipo en un torneo activo	13
+HU03	Pagar la inscripción mediante PSE	13
+HU04	Verificar el pago de la inscripción	13
+Evidencia de Planning Poker
 
-### User Stories and Story Points
+El equipo utilizó Planning Poker para estimar las cuatro historias de usuario. Los tres integrantes del equipo participaron en la votación y en la discusión.
 
-| User Story | Description | Story Points |
-|---|---|---:|
-| HU01 | Select a team for registration | **8** |
-| HU02 | Register team in active tournament | **13** |
-| HU03 | Pay registration through PSE | **13** |
-| HU04 | Verify registration payment | **13** |
+Evidencia en video: https://youtu.be/nrVU0FgRNZI
 
-### Planning Poker Evidence
+Preguntas
+1. ¿Cuál fue la mayor dificultad al momento de estimar las historias de usuario?
 
-The team used Planning Poker to estimate the four user stories. All three team members participated in the voting and discussion.
+El mayor desafío fue lograr que todos estuviéramos de acuerdo, ya que, para cada historia, nunca coincidimos en los puntos durante la primera ronda. Tuvimos que tener en cuenta el punto de vista y las diferentes perspectivas de cada integrante y, basándonos en ello, llegar a un acuerdo mutuo entre todos.
 
-**Video evidence:** https://youtu.be/nrVU0FgRNZI
+2. ¿Fue fácil llegar a un consenso?
 
-### Questions
+No, fue bastante difícil llegar a un consenso tanto en la primera como incluso en la segunda ronda, ya que todos teníamos diferentes perspectivas sobre cómo debía desarrollarse cada historia de usuario.
 
-**1. What was the biggest difficulty when estimating the user stories?**
+3. ¿Cómo resolvieron los casos en los que las estimaciones estaban muy alejadas?
 
-The biggest challenge was getting everyone to agree, because for every story, we never agreed on the scores in the first round. We had to take everyone's point of view and different perspectives into account and, based on that, reach a mutual agreement among all of us.
-
-**2. Was reaching consensus easy?**
-
-No, it was quite difficult to reach a consensus in the first and even the second round, since we all had different perspectives on how each story should unfold.
-
-**3. How did you resolve cases where estimates were far apart?**
-
-When the estimates were far apart, each team member explained the reasons behind their estimate. We discussed the complexity, possible difficulties, and uncertainty of the user story. After considering everyone's arguments, we voted again until we reached a common agreement.
-
----
+Cuando las estimaciones estaban muy alejadas entre sí, cada integrante del equipo explicó las razones detrás de su estimación. Discutimos la complejidad, las posibles dificultades y la incertidumbre de la historia de usuario. Después de considerar los argumentos de todos, volvimos a votar hasta llegar a un acuerdo común.
 
 ## 8. PART 5 – Planning (15%)
 
